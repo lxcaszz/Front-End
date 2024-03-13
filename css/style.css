@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    text-decoration: underline red;
+    background-color:  aqua;
+    
+}
+
+a{
+
+    text-decoration: none;
+    background-color: burlywood;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 3px;
+
+
+}
+
+.par1{
+    text-align: justify;
+    font-variant: small-caps;
+    text-shadow: 0.5px 0.5px 1px green;
+    text
+}
+
+.par2{
+    text-align: start;
+    text-transform: capitalize;
+    line-height: 24px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    text-indent: 40px;
+
+}
+
+.box1{
+    width: 40%;
+    min-height: 200px;
+    background-color: yellow;
+    overflow: auto;
+    /* border-width: 5px 10px ;
+    border-style: solid ;
+    border-color: green red purple ; */
+    border:  3px solid purple;
+    padding: 5px;
+    margin: 20px auto;
+
+
+
+}
+
